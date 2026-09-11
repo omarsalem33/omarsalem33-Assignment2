@@ -1,0 +1,6 @@
+# Build output & IDE folders
+bin/
+obj/
+.vs/
+[Bb]in/
+[Oo]bj/
